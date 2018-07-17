@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\bin\Debug\test_work)twitter.exe
+c:\users\asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\bin\Debug\test_work)twitter.pdb
+c:\users\asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\obj\x86\Debug\test_work)twitter.exe
+c:\users\asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\obj\x86\Debug\test_work)twitter.pdb
+c:\users\asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\obj\x86\Debug\test_work)twitter.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\bin\Debug\Newtonsoft.Json.dll
+c:\users\asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\bin\Debug\Hammock.ClientProfile.dll
+c:\users\asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\bin\Debug\TweetSharp.dll
+C:\Users\Asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\Asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\documents\visual studio 2010\Projects\test_work)twitter\test_work)twitter\bin\Debug\TweetSharp.pdb
